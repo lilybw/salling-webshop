@@ -1,0 +1,17 @@
+.Product-List{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.product-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    grid-gap: 1rem;
+}

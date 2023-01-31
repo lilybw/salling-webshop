@@ -1,0 +1,94 @@
+{
+    "suggestions": [
+        {
+            "id": "92369031",
+            "prod_id": "84121",
+            "title": "Minimælk 0,4% fedt",
+            "description": "Minimælk 0,4% fedt",
+            "img": "https://image.prod.iposeninfra.com/bilkaimg.php?pid=84121&imgType=jpeg",
+            "link": "https://www.bilkatogo.dk/p/84121",
+            "price": 12.5
+        },
+        {
+            "id": "92369051",
+            "prod_id": "84122",
+            "title": "Skummetmælk 0,1% fedt",
+            "description": "Skummetmælk 0,1% fedt",
+            "img": "https://image.prod.iposeninfra.com/bilkaimg.php?pid=84122&imgType=jpeg",
+            "link": "https://www.bilkatogo.dk/p/84122",
+            "price": 11.95
+        },
+        {
+            "id": "92369041",
+            "prod_id": "84120",
+            "title": "Letmælk 1,5% fedt",
+            "description": "Letmælk 1,5% fedt",
+            "img": "https://image.prod.iposeninfra.com/bilkaimg.php?pid=84120&imgType=jpeg",
+            "link": "https://www.bilkatogo.dk/p/84120",
+            "price": 12.75
+        },
+        {
+            "id": "93005500001",
+            "prod_id": "19687",
+            "title": "Minimælk 0,4% fedt øko",
+            "description": "Minimælk 0,4% fedt øko",
+            "img": "https://image.prod.iposeninfra.com/bilkaimg.php?pid=19687&imgType=jpeg",
+            "link": "https://www.bilkatogo.dk/p/19687",
+            "price": 13.75
+        },
+        {
+            "id": "93000100001",
+            "prod_id": "19689",
+            "title": "Sødmælk 3,5% fedt",
+            "description": "Sødmælk 3,5% fedt",
+            "img": "https://image.prod.iposeninfra.com/bilkaimg.php?pid=19689&imgType=jpeg",
+            "link": "https://www.bilkatogo.dk/p/19689",
+            "price": 13.95
+        },
+        {
+            "id": "93001800001",
+            "prod_id": "19686",
+            "title": "Minimælk 0,4% fedt",
+            "description": "Minimælk 0,4% fedt",
+            "img": "https://image.prod.iposeninfra.com/bilkaimg.php?pid=19686&imgType=jpeg",
+            "link": "https://www.bilkatogo.dk/p/19686",
+            "price": 13.25
+        },
+        {
+            "id": "93001100001",
+            "prod_id": "19684",
+            "title": "Letmælk 1,5% fedt",
+            "description": "Letmælk 1,5% fedt",
+            "img": "https://image.prod.iposeninfra.com/bilkaimg.php?pid=19684&imgType=jpeg",
+            "link": "https://www.bilkatogo.dk/p/19684",
+            "price": 13.95
+        },
+        {
+            "id": "93005400001",
+            "prod_id": "19683",
+            "title": "Letmælk 1,5% fedt øko",
+            "description": "Letmælk 1,5% fedt øko",
+            "img": "https://image.prod.iposeninfra.com/bilkaimg.php?pid=19683&imgType=jpeg",
+            "link": "https://www.bilkatogo.dk/p/19683",
+            "price": 14.75
+        },
+        {
+            "id": "93005600001",
+            "prod_id": "19688",
+            "title": "Skummetmælk 0,1% fedt øko",
+            "description": "Skummetmælk 0,1% fedt øko",
+            "img": "https://image.prod.iposeninfra.com/bilkaimg.php?pid=19688&imgType=jpeg",
+            "link": "https://www.bilkatogo.dk/p/19688",
+            "price": 13.75
+        },
+        {
+            "id": "72260001",
+            "prod_id": "81420",
+            "title": "Minimælk 0,4% fedt laktosefri øko",
+            "description": "Minimælk 0,4% fedt laktosefri øko",
+            "img": "https://image.prod.iposeninfra.com/bilkaimg.php?pid=81420&imgType=jpeg",
+            "link": "https://www.bilkatogo.dk/p/81420",
+            "price": 15.75
+        }
+    ]
+}
