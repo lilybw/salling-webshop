@@ -1,5 +1,6 @@
 import { ProductInfo } from '../types';
 import testInfo from '../staticProductInfo.json';
+import env from '../env.json';
 
 const arrayKey = 'suggestions';
 
@@ -30,16 +31,16 @@ const getStaticTestInfo = (): Promise<any> => {
 }
 
 export const queryProducts = (query: string): Promise<ProductInfo[]> => {
-    /*fetch(
+    fetch(
         "https://api.sallinggroup.com/v1-beta/product-suggestions/relevant-products?" + new URLSearchParams({ query: query }),
         {
             headers: {
-                Authorization: "Bearer b1af39be-fc0a-433b-9f12-d9369d360bfb"
+                Authorization: env.token
             },
             method: "GET",
             mode: "no-cors"
         }
-    )*/
+    )
     return getStaticTestInfo()
     .catch(error => {
         console.log(error);
